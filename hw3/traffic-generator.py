@@ -5,7 +5,7 @@ from datetime import datetime
 
 DB_CONFIG = {
     "host": "localhost",
-    "port": "5002",
+    "port": "5000",
     "sslmode": "disable",
     "dbname": "postgres",
     "user": "postgres",
